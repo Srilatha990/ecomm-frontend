@@ -199,11 +199,11 @@ export default function ShopProductCard({ ...props }) {
               }
 
               {wishlist?.filter((v) => v === _id).length > 0 ? (
-                <Tooltip title="Remove from cart">
+                <Tooltip title="Remove from wishlist">
                   <IconButton
                     disabled={isLoading}
                     onClick={onClickWishList}
-                    aria-label="Remove from cart"
+                    aria-label="Remove from wishlist"
                     color="primary"
                     size={isTablet ? 'small' : 'medium'}
                   >
@@ -223,7 +223,7 @@ export default function ShopProductCard({ ...props }) {
                 </Tooltip>
               )}
               {compareProducts?.filter((v) => v._id === _id).length > 0 ? (
-                <Tooltip title="Remove from cart">
+                <Tooltip title="Remove from compare">
                   <IconButton
                     disabled={isLoading}
                     onClick={onRemoveCompare}
