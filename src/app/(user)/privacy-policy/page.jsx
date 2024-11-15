@@ -27,7 +27,7 @@ const PrivacyPolicy = () => {
         Privacy Policy
       </Typography>
       <Typography variant="body1" paragraph>
-        Welcome to Net to Plate! We are committed to protecting your privacy. This Privacy Policy explains how we collect,
+        Welcome to ttt-clothing! We are committed to protecting your privacy. This Privacy Policy explains how we collect,
         use, and safeguard your information when you visit our website.
       </Typography>
       <Typography variant="h6" component="h2" gutterBottom>
@@ -68,7 +68,7 @@ const PrivacyPolicy = () => {
         Contact Us
       </Typography>
       <Typography variant="body1" paragraph>
-        If you have any questions about this Privacy Policy, please contact us at privacy@nettoplate.com.
+        If you have any questions about this Privacy Policy, please contact us at privacy@ttt-clothing.com.
       </Typography>
     </Container>
   );
