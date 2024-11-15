@@ -26,19 +26,19 @@ const TermsAndConditions = () => {
         Terms and Conditions
       </Typography>
       <Typography variant="body1" paragraph>
-        Welcome to Net to Plate! These terms and conditions outline the rules and regulations for the use of Net to Plate's
+        Welcome to ttt-clothing! These terms and conditions outline the rules and regulations for the use of ttt-clothing's
         Website.
       </Typography>
       <Typography variant="body1" paragraph>
-        By accessing this website we assume you accept these terms and conditions. Do not continue to use Net to Plate if you
+        By accessing this website we assume you accept these terms and conditions. Do not continue to use ttt-clothing if you
         do not agree to take all of the terms and conditions stated on this page.
       </Typography>
       <Typography variant="h6" component="h2" gutterBottom>
         License
       </Typography>
       <Typography variant="body1" paragraph>
-        Unless otherwise stated, Net to Plate and/or its licensors own the intellectual property rights for all material on
-        Net to Plate. All intellectual property rights are reserved. You may access this from Net to Plate for your own personal
+        Unless otherwise stated, ttt-clothing and/or its licensors own the intellectual property rights for all material on
+        ttt-clothing. All intellectual property rights are reserved. You may access this from ttt-clothing for your own personal
         use subjected to restrictions set in these terms and conditions.
       </Typography>
       <Typography variant="h6" component="h2" gutterBottom>
@@ -46,8 +46,8 @@ const TermsAndConditions = () => {
       </Typography>
       <Typography variant="body1" paragraph>
         Certain parts of this website offer the opportunity for users to post and exchange opinions and information in
-        certain areas of the website. Net to Plate does not filter, edit, publish or review Comments prior to their presence
-        on the website. Comments do not reflect the views and opinions of Net to Plate, its agents, and/or affiliates.
+        certain areas of the website. ttt-clothing does not filter, edit, publish or review Comments prior to their presence
+        on the website. Comments do not reflect the views and opinions of ttt-clothing, its agents, and/or affiliates.
         Comments reflect the views and opinions of the person who post their views and opinions.
       </Typography>
       <Typography variant="h6" component="h2" gutterBottom>
