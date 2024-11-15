@@ -486,14 +486,14 @@ export default function ProductDetailsSumary({ ...props }) {
 const shippingData = [
   {
     icon: <LiaShippingFastSolid size={20} />,
-    name: 'Freshness and Quality'
+    name: 'Reliable & Timely Delivery'
   },
   {
     icon: <MdLockOutline size={20} />,
-    name: 'Competitive Pricing'
+    name: 'Secure Shopping Experience'
   },
   {
     icon: <FaRegStar size={20} />,
-    name: 'Nutritional Benefits'
+    name: 'Elegant Styles for Every Occasion'
   }
 ];
