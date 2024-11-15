@@ -87,11 +87,11 @@ export default function AdditionalInfo() {
 }
 const PRODUCT_DESCRIPTION = [
   {
-    title: '100% Fresh',
+    title: '100% Quality',
     icon: <MdVerified size={30} />
   },
   {
-    title: 'Competitive Pricing',
+    title: 'Affordable Elegance',
     icon: <FiClock size={28} />
   },
   {
