@@ -28,7 +28,7 @@ export default function RelatedProducts({ ...props }) {
         Related Products
       </Typography>
       <Typography variant="body1" color="text.secondary" className="description">
-        Craving the taste of the ocean without leaving your home? Look no further! At Net to Plate, we bring the finest, freshest seafood straight to your door.
+        Discover timeless elegance with our curated collection of traditional women's clothing, crafted for every occasion.
       </Typography>
       <ProductsCarousel data={data?.data} isLoading={isLoading} />
     </RootStyled>
