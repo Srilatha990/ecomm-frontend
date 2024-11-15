@@ -26,7 +26,7 @@ export default async function ShopComponent() {
             All Shops
           </Typography>
           <Typography variant="body1" color="text.secondary" textAlign="center">
-            Craving the taste of the ocean without leaving your home? Look no further! At Net to Plate, we bring the finest, freshest seafood straight to your door.
+            Explore our curated collection of elegant and timeless traditional wear, designed to elevate every occasion with style and grace.
           </Typography>
         </Box>
         <Box>
